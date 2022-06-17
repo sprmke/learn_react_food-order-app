@@ -6,4 +6,4 @@
 
 ##### Application Scope:
 
-- RTCG-11: Create App with Advanced React Topics (03-10)
+- S11. Practice Project: Building a Food Order App
